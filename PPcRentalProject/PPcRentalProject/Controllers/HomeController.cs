@@ -22,9 +22,10 @@ namespace PPcRentalProject.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "ABC XYZggg";
 
             return View();
         }
+       
     }
 }
