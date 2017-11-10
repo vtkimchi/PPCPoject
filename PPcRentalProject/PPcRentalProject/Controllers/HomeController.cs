@@ -15,7 +15,7 @@ namespace PPcRentalProject.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Helllllo";
+            ViewBag.Message = "Sơn đẹp trai";
 
             return View();
         }
