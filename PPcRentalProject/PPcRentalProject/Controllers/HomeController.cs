@@ -15,16 +15,17 @@ namespace PPcRentalProject.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Sơn đẹp trai quá";
 
             return View();
         }
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "ABC XYZggg";
 
             return View();
         }
+       
     }
 }
